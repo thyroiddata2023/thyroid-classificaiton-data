@@ -1,6 +1,6 @@
 # Notification
 
-This repository is a repository for sharing the data of the paper titled ***"Machine-learning-based diagnosis of thyroid fine-needle aspiration biopsy synergistically by Papanicolaou staining and refractive index distribution"***, published in Scientific Reports.
+This repository is a repository for sharing the data of the paper titled **"Machine-learning-based diagnosis of thyroid fine-needle aspiration biopsy synergistically by Papanicolaou staining and refractive index distribution"**, published in *Scientific Reports*.
 
 link - https://doi.org/10.1038/s41598-023-36951-2
 
